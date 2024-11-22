@@ -1,0 +1,19 @@
+{
+  "id": "12345",
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "role": "Admin",
+  "status": "Active"
+}
+{
+  "id": "admin",
+  "name": "Admin",
+  "permissions": ["Read", "Write", "Delete"]
+}
+
+
+{
+  "id": "read",
+  "name": "Read",
+  "description": "Ability to view data"
+}
